@@ -1,0 +1,12 @@
+.video__iframes {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  grid-column-gap: 20px;
+  -ms-grid-columns: 515px 20px 515px;
+  grid-template-columns: repeat(2, 515px);
+  top: 50px;
+  position: relative;
+}

@@ -1,0 +1,13 @@
+@import url(./_place/logo_place_header.css);
+@import url(./_place/logo_place_footer.css);
+
+.logo {
+  width: 183px;
+  -webkit-transition: opacity linear .5s;
+  -o-transition: opacity linear .5s;
+  transition: opacity linear .5s;
+}
+
+.logo:hover {
+  opacity: .5;
+}

@@ -1,0 +1,43 @@
+@-webkit-keyframes header__square-pic {
+  from {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  to {
+    -webkit-transform: rotate(345deg);
+            transform: rotate(345deg);
+  }
+}
+
+@keyframes header__square-pic {
+  from {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  to {
+    -webkit-transform: rotate(345deg);
+            transform: rotate(345deg);
+  }
+}
+
+@-webkit-keyframes kaufman__triangle {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes kaufman__triangle {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
